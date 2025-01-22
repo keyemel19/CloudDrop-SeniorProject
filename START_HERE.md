@@ -1,0 +1,8 @@
+# Project Description
+
+- [ARCHITECHTURE] ()
+- [HARDWARE DIAGRAM] ()
+- [HARDWARE COMPONENTS] ()
+- [SOFTWARE DIAGRAM] ()
+- [CODE] ()
+
