@@ -4,7 +4,7 @@ CloudDrop is an innovative IoT solution designed to monitor, detect, and log the
 - [System Architechture]()
 - [Hardware Diagram]()
 - [Hardware Components]()
-- [Software Diagram]()
+- [Software Diagram](https://github.com/keyemel19/CloudDrop-SeniorProject/blob/main/image.png)
 - [Code]()
 
 
