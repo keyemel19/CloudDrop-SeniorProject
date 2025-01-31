@@ -27,8 +27,8 @@ Housing enclosure that can be mounted against a surface via two-sided sticky tap
 Debug and initial implementation via Seeed Studio XIAO ESP32C3
 •	ADC 
 - Microcontroller/Processor:
-- Sound Detection Module:
-- Placeholder for microphone and processing capabilities.
+- Sound Detection Module: (maybe) - Vibration/IR sensor or wiretap to the dispenser sensor
+-_ Placeholder for microphone and processing capabilities._
 - Power Supply:
 - Placeholder for battery capacity or wired options.
 - Connectivity:
